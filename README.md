@@ -34,15 +34,16 @@ Steps to run the project:
 
 Main features of the project:
 
-1.Home page of the Application shows latest news feed is loaded using API call.
+1.User can make their own account, wherein they have buying ,selling options. Daily ,monthly and weekly live insights shown graphically
 
-2.Search option for stocks provided.
+2.Home page of the Application shows latest news feed is loaded using API call.
 
-3.Shows trending stocks.
 
-4.Built in support for cryptocurrency
+3.Search option for stocks provided.
 
-5.User can make their own account, wherein they have buying ,selling options. Daily ,monthly and weekly live insights shown graphically 
+4.Shows trending stocks.
 
-6. Application also maintains user's portfolio. 
+5.Built in support for cryptocurrency 
+
+6.Application also maintains user's portfolio. 
 
